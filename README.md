@@ -6,4 +6,4 @@ edit test
 
 edit test2
 
-edit test3
+--remove test3
